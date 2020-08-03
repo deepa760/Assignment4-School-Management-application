@@ -1,6 +1,4 @@
 package SchoolManagementAssignment_4.model;
-
-
 import java.time.LocalDate;
 import java.util.ArrayList;
 
